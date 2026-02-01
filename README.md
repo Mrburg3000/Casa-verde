@@ -1,19 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# The Casa Verde Homepage
 
 This is a simple page I made to test my Next.js skills; it doesn't have much beyond the homepage.
+
+casa-verde-one-eta.vercel.app Here is the project on vercel!
